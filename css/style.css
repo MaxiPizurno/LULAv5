@@ -172,12 +172,15 @@ i{
 footer p{
     padding-top: 10px;
     color: #4db6ac;
-    margin: 0;
 }
 
 footer{
     background-color: #004d40;
     height: 5vh;
+}
+
+.centrado p{
+    margin:0
 }
 
 
